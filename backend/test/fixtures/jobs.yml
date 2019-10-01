@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  salary: 9.99
+  office: MyString
+  local: MyString
+  contract_type: MyString
+  remote: false
+  schedule: 2019-03-30 17:05:03
+
+two:
+  title: MyString
+  description: MyText
+  salary: 9.99
+  office: MyString
+  local: MyString
+  contract_type: MyString
+  remote: false
+  schedule: 2019-03-30 17:05:03
